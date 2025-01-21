@@ -3,10 +3,10 @@
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\Kernel\Kernel.Infra\Kernel.Infra.csproj" />
     <ProjectReference Include="..\Empresa.Churras.Domain\Empresa.Churras.Domain.csproj" />
   </ItemGroup>
 
