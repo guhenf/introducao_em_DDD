@@ -13,7 +13,7 @@
   <Class Name="Empresa.Churras.Domain.Model.Entities.Evento">
     <Position X="7.25" Y="3.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAQAACAgAAAAAgAAAAAAAAAAAAAAAAAAIAAEEAAAQ=</HashCode>
+      <HashCode>AAAAQAACAgAAAAAgAABAAAAAAAAAAAAAAAIAAEEAAAQ=</HashCode>
       <FileName>Entities\Evento.cs</FileName>
     </TypeIdentifier>
     <ShowAsAssociation>
@@ -28,7 +28,7 @@
   <Class Name="Empresa.Churras.Domain.Model.ValueObjects.Periodo">
     <Position X="7.25" Y="1.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAAAAABAAAAIAAAAA=</HashCode>
       <FileName>ValueObjects\Periodo.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -50,7 +50,7 @@
     </TypeIdentifier>
   </Class>
   <Class Name="Empresa.Churras.Domain.Model.ValueObjects.EventoColegaConfirmado">
-    <Position X="7.25" Y="5.25" Width="1.5" />
+    <Position X="7.25" Y="6.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAEAAAAAAAAAAAAAAAACAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>ValueObjects\EventoColegaConfirmado.cs</FileName>
