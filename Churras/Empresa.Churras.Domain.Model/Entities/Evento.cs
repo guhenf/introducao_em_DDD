@@ -4,7 +4,7 @@ using Kernel.Domain.Model.Entities;
 
 namespace Empresa.Churras.Domain.Model.Entities
 {
-    public class Evento : EntityKeySeq
+    public class Evento : EntityKeySeq, IAggregateRoot
     {
         public string Nome { get; set; }
         public long DonoDaCasaKey { get; set; }
